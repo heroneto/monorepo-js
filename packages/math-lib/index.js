@@ -8,4 +8,13 @@ function factorialize(num) {
   return num;
 }
 
-module.exports = factorialize;
+
+function sumValues(a, b) {
+
+  return a+b
+}
+
+module.exports = {
+  factorialize,
+  sumValues
+};
