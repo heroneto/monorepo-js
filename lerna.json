@@ -10,7 +10,7 @@
       "registry": "http://localhost:4873" 
     },
     "version": {
-      "allowBranch": ["master"], 
+      "allowBranch": ["main"], 
       "message": "chore(release): publicando versão",
       "ignoreChanges": ["yarn.lock"],
       "exact": true,
